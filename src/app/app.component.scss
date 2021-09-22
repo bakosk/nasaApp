@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+}
+
+div {
+  display:flex;
+  justify-content: center;
+
+  aside {
+    width: 16rem;
+    max-width: 16rem;
+  }
+
+  main {
+    width: 40rem;
+    max-width: 40rem;
+  }
+}
